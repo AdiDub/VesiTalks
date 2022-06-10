@@ -1,6 +1,9 @@
 # VesiTalks | MRN-GraphQL
 
 
+# Hosted @
+https://vesitalks.netlify.app/
+
 ## Built using
 
 #### Front-end
